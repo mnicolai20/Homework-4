@@ -1,0 +1,15 @@
+#time{
+    text-align: right;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#start{
+    text-align: center;
+    padding: 20%;
+}
+
+#quiz{
+    text-align: center;
+    padding: 20%;
+}
